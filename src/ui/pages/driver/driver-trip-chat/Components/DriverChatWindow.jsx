@@ -10,28 +10,28 @@ export default function DriverChatWindow() {
         id: 1,
         userId: 2,
         name: "Rodrigo",
-        message: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fuga ratione repudiandae...",
+        message: "Oi! Estou chegando no local de embarque em uns 5 minutos, tudo bem?",
         date: "11:30"
     },
     {
         id: 2,
         userId: 1,
         name: "Você",
-        message: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fuga ratione repudiandae...",
+        message: "Oi, tudo certo! Já estou aqui aguardando.",
         date: "11:30"
     },
     {
         id: 3,
         userId: 1,
         name: "Você",
-        message: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fuga ratione repudiandae...",
+        message: "Estou estacionado em frente ao mercado, você me vê?",
         date: "11:31"
     },
     {
         id: 4,
         userId: 2,
         name: "Rodrigo",
-        message: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fuga ratione repudiandae...",
+        message: "Sim, te vi. Estou indo até aí.",
         date: "11:32"
     }])
 
